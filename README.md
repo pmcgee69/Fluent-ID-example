@@ -19,4 +19,4 @@ https://youtu.be/U5GvCh9yAsw
 ![sshot 2](https://user-images.githubusercontent.com/11953157/137022095-c8040954-ffee-4eb3-9866-b46f06b7533c.png)
 
 
-![sshot 3](https://user-images.githubusercontent.com/11953157/137022105-fe6b5f50-da8e-47d9-a5cb-57a1190bd635.png)
+![sshot 3](https://user-images.githubusercontent.com/11953157/137022413-7736ecd5-7173-416e-b2bb-c91b942c97ec.png)
