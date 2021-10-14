@@ -30,7 +30,7 @@ end;
 
 function TTestObj.FluentSetName(Name: string): TTestObj;
 begin
-  FName := Name;   writeln(name,'  '); Result := Self;
+  FName := Name;   write(name,'  ');   Result := Self;
 end;
 
 end.

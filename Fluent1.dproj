@@ -89,6 +89,10 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
+        <DCCReference Include="U_fluent_intf.pas"/>
+        <DCCReference Include="TTest_intf.pas"/>
+        <DCCReference Include="TTest_obj.pas"/>
+        <DCCReference Include="TTest_rec.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>

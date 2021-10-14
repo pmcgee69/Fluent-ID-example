@@ -39,7 +39,7 @@ end;
 
 function TTestIntfImp.FluentSetName(Name: string): ITestIntf;
 begin
-  FName := Name;   writeln(name,'  '); Result := Self;
+  FName := Name;   write(name,'  ');   Result := Self;
 end;
 
 end.
